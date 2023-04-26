@@ -1,4 +1,4 @@
 git add fichero.sh
 git commit -m "Automatizacion"
-git checkout master
+git checkout -b master
 git push origin master
